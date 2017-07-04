@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	x:Class="app_pesquisa.CadastroPartipantePage"
+	xmlns:local="clr-namespace:app_pesquisa.componentes;assembly=app_pesquisa"
+    xmlns:b="clr-namespace:Xamarin.Behaviors;assembly=Xamarin.Behaviors">
+
+	<ContentPage.Resources>
+    	<ResourceDictionary>
+      	<local:NegateBooleanConverter x:Key="inverter"/>    
+    	</ResourceDictionary>
+  	</ContentPage.Resources>
+	
+	<ContentPage.Content>
+	</ContentPage.Content>
+
+	<StackLayout HorizontalOptions="CenterAndExpand" Padding="0, 30, 0, 0">
+	    <StackLayout HorizontalOptions="CenterAndExpand" Padding="0, 20, 0, 30">
+	      <Label Text="Cadastro de Participante" FontSize="20" FontAttributes="Bold"></Label>
+	    </StackLayout>
+
+		<ScrollView >
+			<StackLayout Orientation="Vertical">
+				<Entry Text="{Binding TxtNome}" Placeholder="Nome *"></Entry>
+
+				<Entry Text="{Binding TxtEmail}" Placeholder="E-mail *"> </Entry>
+
+				<Entry Text="{Binding TxtTelefone}" Placeholder="Telefone *"></Entry>
+
+				<Entry Text="{Binding TxtEmpresa}" Placeholder="Empresa *"></Entry>
+
+				<Entry Text="{Binding TxtInfoAdicional}" Placeholder="Info. Adicional"></Entry>
+
+			    <StackLayout HorizontalOptions="CenterAndExpand" Padding="0, 50, 0, 0" Orientation="Horizontal">
+					<Button Text="Cancelar" Command="{Binding CmdCancelar}" WidthRequest="200" TextColor="#FFFFFF" BackgroundColor="#3F51B5"></Button>	
+			      	<Button Text="Salvar" Command="{Binding CmdSalvar}" WidthRequest="200" TextColor="#FFFFFF" BackgroundColor="#3F51B5" IsEnabled="{Binding IsRunning, Mode=TwoWay, Converter={StaticResource inverter}}"></Button>
+			    </StackLayout>
+
+				<ActivityIndicator Color="Gray" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" IsRunning="{Binding IsRunning, Mode=TwoWay}" IsVisible="{Binding IsRunning, Mode=TwoWay}"></ActivityIndicator>
+			</StackLayout>
+		</ScrollView>
+  	</StackLayout>
+</ContentPage>

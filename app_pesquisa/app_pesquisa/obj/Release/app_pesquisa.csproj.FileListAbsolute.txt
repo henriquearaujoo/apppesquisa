@@ -1,0 +1,155 @@
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.dll.config
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.pdb
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\ExifLib.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\ModernHttpClient.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Newtonsoft.Json.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLite-net.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLite.Net.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLiteNetExtensions.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLitePCL.batteries.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLitePCL.raw.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Behaviors.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Core.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Platform.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Xaml.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Core.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Forms.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Ioc.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Platform.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Serialization.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Newtonsoft.Json.xml
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLite-net.xml
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Core.xml
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Xaml.xml
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Core.xml
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Forms.xml
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Ioc.xml
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Platform.xml
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Serialization.xml
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.PesquisaPage.xaml.g.cs
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.FormularioPage.xaml.g.cs
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.LoginPage.xaml.g.cs
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.dll
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.pdb
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.csprojResolveAssemblyReference.cache
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.dll.mdb
+B:\Google Drive\Ambiente de Desenvolvimento\Visual Studio\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.dll.mdb
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.dll.config
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.pdb
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\ExifLib.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\ModernHttpClient.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Newtonsoft.Json.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLite-net.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLite.Net.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLiteNetExtensions.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLitePCL.batteries.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLitePCL.raw.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Behaviors.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Core.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Platform.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Xaml.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Core.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Forms.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Ioc.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Platform.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Serialization.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Newtonsoft.Json.xml
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLite-net.xml
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Core.xml
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Xaml.xml
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Core.xml
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Forms.xml
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Ioc.xml
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Platform.xml
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Serialization.xml
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.csprojResolveAssemblyReference.cache
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.PesquisaPage.xaml.g.cs
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.FormularioPage.xaml.g.cs
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.LoginPage.xaml.g.cs
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.dll
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.pdb
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.dll.mdb
+B:\Google Drive\Ambiente de Desenvolvimento\VS\Projetos\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.dll.mdb
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.dll.config
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.pdb
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\ExifLib.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\ModernHttpClient.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\Newtonsoft.Json.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\SQLite-net.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\SQLite.Net.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\SQLiteNetExtensions.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\SQLitePCL.batteries.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\SQLitePCL.raw.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Behaviors.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\XLabs.Core.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\XLabs.Forms.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\XLabs.Ioc.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\XLabs.Platform.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\XLabs.Serialization.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\Newtonsoft.Json.xml
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\SQLite-net.xml
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\XLabs.Core.xml
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\XLabs.Forms.xml
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\XLabs.Ioc.xml
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\XLabs.Platform.xml
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\XLabs.Serialization.xml
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.PesquisaPage.xaml.g.cs
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.FormularioPage.xaml.g.cs
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.LoginPage.xaml.g.cs
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.dll
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.pdb
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.dll.mdb
+C:\Users\Rayfran Rocha\Documents\Nova pasta\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.dll.mdb
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.dll.config
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\app_pesquisa.pdb
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\ExifLib.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\ModernHttpClient.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLite-net.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLite.Net.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLiteNetExtensions.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLitePCL.batteries.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLitePCL.raw.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Behaviors.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Core.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Platform.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Xaml.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Core.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Forms.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Ioc.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Platform.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Serialization.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\ZXing.Net.Mobile.Core.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\ZXing.Net.Mobile.Forms.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\zxing.portable.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\ZXingNetMobile.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\SQLite-net.xml
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Core.xml
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Forms.xml
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Ioc.xml
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Platform.xml
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\XLabs.Serialization.xml
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Core.pdb
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Core.xml
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Platform.pdb
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Xaml.pdb
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\bin\Release\Xamarin.Forms.Xaml.xml
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.PesquisaPage.xaml.g.cs
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.EventoPage.xaml.g.cs
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.CadastroPartipantePage.xaml.g.cs
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.FormularioPage.xaml.g.cs
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.LoginPage.xaml.g.cs
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.view.ConfiguracoesPage.xaml.g.cs
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.dll
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.pdb
+\\Mac\Home\Desktop\projetos\icon\app_pesquisa\app_pesquisa\app_pesquisa\obj\Release\app_pesquisa.csprojResolveAssemblyReference.cache

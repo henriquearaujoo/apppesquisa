@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:app_pesquisa.componentes;assembly=app_pesquisa"
+             xmlns:b="clr-namespace:Xamarin.Behaviors;assembly=Xamarin.Behaviors"
+             x:Class="app_pesquisa.view.LoginPage" BackgroundColor="#3F51B5">
+  
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <local:NegateBooleanConverter x:Key="inverter"/>    
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  
+  <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" >
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Padding="0, 0, 0, 30">
+      <Label Text="EZQUEST Pesquisa" FontSize="20" TextColor="#FFFFFF" FontAttributes="Bold"></Label>
+    </StackLayout>
+    <Entry Placeholder="Id" WidthRequest="300" PlaceholderColor="#FFFFFF" Keyboard="Numeric" TextColor="#FFFFFF">
+      <b:Interaction.Behaviors>
+        <b:BehaviorCollection>
+          <local:TextChangedBehavior Text="{Binding TxtId, Mode=TwoWay}" />
+        </b:BehaviorCollection>
+      </b:Interaction.Behaviors>
+    </Entry>
+    <Entry Text="{Binding TxtSenha}" Placeholder="Senha" IsPassword="True" WidthRequest="300" PlaceholderColor="#FFFFFF" TextColor="#FFFFFF"></Entry>
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Padding="0, 30, 0, 0">
+      <Button Text="Entrar" Command="{Binding CmdEntrar}" WidthRequest="300" TextColor="#FFFFFF" IsVisible="{Binding IsRunning, Mode=TwoWay, Converter={StaticResource inverter}}"></Button>
+      <ActivityIndicator Color="Gray" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" IsRunning="{Binding IsRunning, Mode=TwoWay}" IsVisible="{Binding IsRunning, Mode=TwoWay}"></ActivityIndicator>
+      <Label Text="Esqueceu a senha?" TextColor="#FFFFFF" HorizontalOptions="Center"></Label>
+      <Label Text="EZQUEST 1.7 - Powered by ICON" TextColor="Yellow" HorizontalOptions="Center"/>
+    </StackLayout>
+  </StackLayout>
+</ContentPage>
