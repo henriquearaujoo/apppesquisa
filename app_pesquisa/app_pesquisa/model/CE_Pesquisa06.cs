@@ -20,6 +20,7 @@ namespace app_pesquisa.model
         public String dtiniciopesquisa { get; set; }
         public String dtfimpesquisa { get; set; }
         public Int32 qtamostraporpesquisador { get; set; }
+        public String nome { get; set; }
 
         [ForeignKey(typeof(CE_Pesquisa01))]
         public Int32 idpesquisa01 { get; set; }

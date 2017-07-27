@@ -11,8 +11,8 @@
 namespace app_pesquisa.view {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("\\\\Mac\\Home\\Desktop\\projetos\\icon\\app_pesquisa\\app_pesquisa\\app_pesquisa\\view\\Logi" +
-        "nPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("\\\\Mac\\Home\\Desktop\\projetos\\A9\\app_pesquisa\\app_pesquisa\\app_pesquisa\\view\\LoginP" +
+        "age.xaml")]
     public partial class LoginPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

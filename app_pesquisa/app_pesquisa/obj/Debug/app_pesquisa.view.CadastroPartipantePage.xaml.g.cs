@@ -11,8 +11,8 @@
 namespace app_pesquisa {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("\\\\Mac\\Home\\Desktop\\projetos\\icon\\app_pesquisa\\app_pesquisa\\app_pesquisa\\view\\Cada" +
-        "stroPartipantePage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("\\\\Mac\\Home\\Desktop\\projetos\\A9\\app_pesquisa\\app_pesquisa\\app_pesquisa\\view\\Cadast" +
+        "roPartipantePage.xaml")]
     public partial class CadastroPartipantePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

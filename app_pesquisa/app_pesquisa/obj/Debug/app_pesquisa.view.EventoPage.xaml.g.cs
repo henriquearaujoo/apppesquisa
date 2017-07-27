@@ -11,8 +11,8 @@
 namespace app_pesquisa {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("\\\\Mac\\Home\\Desktop\\projetos\\icon\\app_pesquisa\\app_pesquisa\\app_pesquisa\\view\\Even" +
-        "toPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("\\\\Mac\\Home\\Desktop\\projetos\\A9\\app_pesquisa\\app_pesquisa\\app_pesquisa\\view\\Evento" +
+        "Page.xaml")]
     public partial class EventoPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

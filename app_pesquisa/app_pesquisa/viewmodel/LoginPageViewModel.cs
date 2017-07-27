@@ -90,12 +90,13 @@ namespace app_pesquisa.viewmodel
                     {
                         pesquisador.logado = 1;
                         pesquisador.nome = pesquisadorWeb.pesquisador.nome;
+                        pesquisador.idcliente = pesquisadorWeb.pesquisador.idcliente;
                         pesquisador.razaosocial = pesquisadorWeb.pesquisador.razaosocial;
                         dao08.AtualizarPesquisador(pesquisador);
                     }
 
-                    //await this.page.Navigation.PushAsync(new PesquisaPage());
-					await this.page.Navigation.PushAsync(new EventoPage());
+                    await this.page.Navigation.PushAsync(new PesquisaPage());
+					//await this.page.Navigation.PushAsync(new EventoPage());
                 }
                 else
                 {

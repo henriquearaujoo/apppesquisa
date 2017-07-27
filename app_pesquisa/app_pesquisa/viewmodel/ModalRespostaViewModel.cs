@@ -760,7 +760,7 @@ namespace app_pesquisa.viewmodel
 					//else
 					//	ListaRespostas = new List<CE_Pesquisa07>();
 
-                    if (ListaRespostas == null)
+                    if (ListaRespostas == null || modalResposta.Item.qtrespostas == 1)
                         ListaRespostas = new List<CE_Pesquisa07>();
 
                     CriarResposta(opcao);

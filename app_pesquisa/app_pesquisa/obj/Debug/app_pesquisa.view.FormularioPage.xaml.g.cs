@@ -11,8 +11,8 @@
 namespace app_pesquisa.view {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("\\\\Mac\\Home\\Desktop\\projetos\\icon\\app_pesquisa\\app_pesquisa\\app_pesquisa\\view\\Form" +
-        "ularioPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("\\\\Mac\\Home\\Desktop\\projetos\\A9\\app_pesquisa\\app_pesquisa\\app_pesquisa\\view\\Formul" +
+        "arioPage.xaml")]
     public partial class FormularioPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

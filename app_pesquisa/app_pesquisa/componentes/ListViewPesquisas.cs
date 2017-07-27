@@ -19,7 +19,7 @@ namespace app_pesquisa.componentes
 
             ListView listView = new ListView();
             listView.SeparatorColor = Color.FromHex("#B6B6B6");
-            listView.RowHeight = 90;
+            listView.RowHeight = 130;
             listView.SetBinding(ListView.ItemsSourceProperty, new Binding("Pesquisas", BindingMode.OneWay));
             listView.ItemTemplate = new DataTemplate(() =>
             {
@@ -57,10 +57,19 @@ namespace app_pesquisa.componentes
                     TextColor = Color.FromHex("#212121")
                 };
 
-                lbl2.SetBinding(Label.TextProperty, new Binding("pesquisa01.DSDATACONSOLIDADA", BindingMode.OneWay));
+                lbl2.SetBinding(Label.TextProperty, new Binding("nome", BindingMode.OneWay));
+
+                Label lbl3 = new Label()
+                {
+                    FontSize = 14,
+                    TextColor = Color.FromHex("#212121")
+                };
+
+                lbl3.SetBinding(Label.TextProperty, new Binding("pesquisa01.DSDATACONSOLIDADA", BindingMode.OneWay));
 
                 layoutLabel.Children.Add(lbl);
                 layoutLabel.Children.Add(lbl2);
+                layoutLabel.Children.Add(lbl3);
 
                 layoutList.Children.Add(layoutImage);
                 layoutList.Children.Add(layoutLabel);

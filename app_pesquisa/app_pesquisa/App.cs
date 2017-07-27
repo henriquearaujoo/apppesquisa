@@ -23,8 +23,8 @@ namespace app_pesquisa
                 MainPage = new NavigationPage(new LoginPage());
             else
             {
-				EventoPage page = new EventoPage();
-				//PesquisaPage page = new PesquisaPage();
+				//EventoPage page = new EventoPage();
+				PesquisaPage page = new PesquisaPage();
                 MainPage = new NavigationPage(page);
                 page.Navigation.InsertPageBefore(new LoginPage(), page);
 
